@@ -1,6 +1,3 @@
-# celebration-
-Demo celebration page with confetti
-<!DOCTYPE html>
 <html>
 <head>
 <title>Celebration</title>

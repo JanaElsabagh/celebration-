@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Celebration/title>
+<title>Celebration</title>
 <style>
 body {
   display:flex;
@@ -26,7 +26,7 @@ canvas {
 </head>
 <body>
 
-<p>Congratulations, you have been hacked by Jana Elsabagh 😘😘Hp>
+<p>Congratulations, you have been hacked by Jana Elsabagh 😘😘</p>
 
 <canvas id="confetti"></canvas>
 

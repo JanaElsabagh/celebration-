@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Warning⚠️❗️/title>
+<title>Celebration/title>
 <style>
 body {
   display:flex;

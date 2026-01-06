@@ -26,7 +26,7 @@ canvas {
 </head>
 <body>
 
-<p>Congratulations, you have been hacked by Jana Elsabagh 😘😘</p>
+<p>Happy birthday ya pandoda 🐼❤️❤️>Hp>
 
 <canvas id="confetti"></canvas>
 

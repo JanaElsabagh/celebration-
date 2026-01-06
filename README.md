@@ -26,7 +26,7 @@ canvas {
 </head>
 <body>
 
-<p>Happy birthday ya pandoda 🐼❤️❤️>Hp>
+<p>Happy birthday ya pandoda 🐼❤️❤️❤️>Hp>
 
 <canvas id="confetti"></canvas>
 
